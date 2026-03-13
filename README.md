@@ -33,6 +33,8 @@ This project was built as a frontend practice project to improve skills in build
 * Improve UI design and responsiveness
 
 ##preview
+![BookSky Preview](image.png)
+
 
 
 ## 👩‍💻 Author
